@@ -1,0 +1,2 @@
+[[vjgANDkmg]]
+[[vjgXORkmg]]

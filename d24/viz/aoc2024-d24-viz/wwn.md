@@ -1,0 +1,2 @@
+[[wwnXORgwm]]
+[[wwnANDgwm]]

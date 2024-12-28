@@ -1,0 +1,11 @@
+[package]
+name = "d3"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow.workspace = true
+itertools.workspace = true
+aocutil.workspace = true
+indoc.workspace = true
+regex = "1.11.1"

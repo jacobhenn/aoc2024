@@ -1,0 +1,2 @@
+[[jhfXORmdn]]
+[[jhfANDmdn]]

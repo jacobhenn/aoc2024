@@ -1,0 +1,2 @@
+[[wkqXORtfv]]
+[[wkqANDtfv]]

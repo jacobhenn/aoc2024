@@ -1,0 +1,2 @@
+[[jwvXORdgj]]
+[[dgjANDjwv]]

@@ -1,0 +1,10 @@
+[package]
+name = "d4"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow.workspace = true
+itertools.workspace = true
+aocutil.workspace = true
+indoc.workspace = true

@@ -1,0 +1,2 @@
+[[fgvXORbhw]]
+[[bhwANDfgv]]

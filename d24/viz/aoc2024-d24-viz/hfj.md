@@ -1,0 +1,2 @@
+[[dtjANDhfj]]
+[[hfjXORdtj]]

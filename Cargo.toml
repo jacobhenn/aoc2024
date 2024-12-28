@@ -1,0 +1,24 @@
+[workspace]
+members = ["d*"]
+resolver = "2"
+
+[workspace.dependencies]
+anyhow = "1"
+itertools = "0.12"
+num = "0.4"
+phf = { version = "0.10", features = ["macros"] }
+indoc = "2"
+yansi = "1"
+
+[workspace.dependencies.aocutil]
+path = "../aocutil"
+
+[profile.dev]
+opt-level = "z"
+
+[profile.bench]
+debug = true
+
+# profiling only
+# [profile.release]
+# debug = true

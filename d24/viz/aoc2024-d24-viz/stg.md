@@ -1,0 +1,2 @@
+[[stgXORkdv]]
+[[kdvANDstg]]

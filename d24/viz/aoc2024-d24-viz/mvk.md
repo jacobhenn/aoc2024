@@ -1,0 +1,2 @@
+[[mvkXORtkc]]
+[[tkcANDmvk]]

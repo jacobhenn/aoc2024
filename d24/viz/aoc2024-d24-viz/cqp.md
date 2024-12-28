@@ -1,0 +1,2 @@
+[[dqmXORcqp]]
+[[cqpANDdqm]]

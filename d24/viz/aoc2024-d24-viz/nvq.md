@@ -1,0 +1,2 @@
+[[nvqANDchk]]
+[[chkXORnvq]]

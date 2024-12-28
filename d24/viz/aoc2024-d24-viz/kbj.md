@@ -1,0 +1,2 @@
+[[qjqXORkbj]]
+[[kbjANDqjq]]

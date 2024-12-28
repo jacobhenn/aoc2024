@@ -1,0 +1,2 @@
+[[knfXORvgs]]
+[[knfANDvgs]]

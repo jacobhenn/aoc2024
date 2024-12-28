@@ -1,0 +1,2 @@
+[[frnANDghf]]
+[[ghfXORfrn]]

@@ -1,0 +1,2 @@
+[[tmdANDshm]]
+[[shmXORtmd]]

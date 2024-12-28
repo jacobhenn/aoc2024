@@ -1,0 +1,2 @@
+[[mjjANDfqr]]
+[[mjjXORfqr]]

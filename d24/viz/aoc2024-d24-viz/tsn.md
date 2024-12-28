@@ -1,0 +1,2 @@
+[[hvsXORtsn]]
+[[hvsANDtsn]]
